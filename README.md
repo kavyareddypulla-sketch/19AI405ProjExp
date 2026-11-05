@@ -1,3 +1,6 @@
+NAME :- PULLA KAVYA
+REG NUM:- 212225240110
+
 # Implement a Sudoku Solver From Scratch
 ## Steps to solve the Sudoku Puzzle in Python
 <ol>
