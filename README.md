@@ -119,8 +119,7 @@
     else:
     print("No solution exists.")
 
-
-
+```
 
 ## OUTPUT
 
